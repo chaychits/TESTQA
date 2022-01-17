@@ -1,6 +1,8 @@
-1. ID
-2. Заголовок
-3. Шаги воспроизведения
-4. Результаты
-5. Окружение
-6. Приоритет
+   1. ID
+   2. Title
+   3. Summary
+   3. Step of reproduce 
+   4. Reproducibility
+   5. Severity
+   6. Priority
+   7. Environment
